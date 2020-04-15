@@ -31,16 +31,18 @@
        "repo":"http://github.com/protoschool/san-francisco"
     },
     {
-       "name":"ProtoSchool Seattle",
-       "city":"Seattle, WA",
-       "country":"US",
-       "region":"North America",
-       "organizers":[
-          "zebul",
-          "jimcal",
-          "frijol"
-       ],
-       "repo":"http://github.com/protoschool/seattle"
+      "name": "ProtoSchool Seattle",
+      "city": "Seattle, WA",
+      "country": "US",
+      "region": "North America",
+      "organizers": [
+         "frijol", 
+         "jimcal", 
+         "zebul"
+      ],
+      "website": "https://www.meetup.com/ProtoSchool-Seattle-Learn-to-Make-the-Decentralized-Web/",
+      "repo": "https://github.com/ProtoSchool/seattle",
+      "twitter": "DwebSeattle"
     },
     {
        "name":"ProtoSchool DC",
